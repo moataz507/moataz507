@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @moataz507
-- 👀 I’m interested in Data science and analytics
-- 🌱 I’m currently learning Data analysis
+
 
 
 <!---
